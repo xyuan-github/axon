@@ -1,11 +1,11 @@
 Algorithm for extraction of axonal arbors
 
-The files included in this folder can be used to test the algorithm for the extraction of axonal arbors from neuronal footprints of electrical activity. An example dataset includes data of three exemplary neurons.
+The files included in this folder can be used to test the algorithm for the extraction of axonal arbors from neuronal footprints of electrical activity. An example dataset includes data of one exemplary neuron.
 
 The files included in this folder are:
     - Main.m %  main Matlab file for testing 
     - axon_velocity_auto.m %  main extraction algorithm
-    - data.mat %  example dataset, including the footprints of three exemplary neurons
+    - data.mat %  example dataset, including the footprints of one exemplary neuron
     - ntk.mat %  array information needed for the algorithm
 
 
